@@ -1,0 +1,20 @@
+{
+  "name": "homeworkEur",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./test/**/*.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^3.5.0"
+  },
+  "devDependencies": {
+    "chai": "^2.1.1",
+    "mocha": "^2.2.1",
+    "sinon": "^1.13.0",
+    "sinon-chai": "^2.7.0"
+  }
+}
